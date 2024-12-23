@@ -22,6 +22,7 @@
     - [Expected Output](#expected-output)
     - [Troubleshooting](#troubleshooting)
     - [References](#references)
+    - [Link to Devpost](#link-to-devpost)
 <!-- markdown-toc end -->
 
 ## Problem Statement
@@ -215,3 +216,6 @@ The application should provide:
 - [Flask-SQLAlchemy Documentation](https://flask-sqlalchemy.palletsprojects.com/)
 - [Flask-Migrate Documentation](https://flask-migrate.readthedocs.io/)
 - [Google Gemini API Documentation](https://cloud.google.com/ai-platform/)
+
+## Link to Devpost
+- https://devpost.com/software/833070/joins/xCF0Vtmq8NORwo7xLBjcpg
