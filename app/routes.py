@@ -321,9 +321,9 @@ def upload_image():
 			return "Successfully Added!"
 	return render_template('upload.html')
 
-# @application.route('/uploads/<foodname>')
-# def uploaded_file(foodname):
-#     food = PantryItem.query.filter_by(name = foodname).first()
+# @application.route('/uploads/<food_id>')
+# def uploaded_file(food_id):
+#     food = PantryItem.query.filter_by(id = food_id).first()
 #     image_path = food.image_path
 #     if image_path.startswith('app'):
 #         image_path = image_path[3:]
